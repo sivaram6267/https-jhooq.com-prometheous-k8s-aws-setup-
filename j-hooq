@@ -1,0 +1,11 @@
+Install AWS CLI and eksctl
+Setup AWS Credentials
+Install kubectl
+Install Helm chart
+Create Kubernetes cluster in AWS using eksctl
+Install Kubernetes Metrics Server
+Install Prometheus
+Install grafana
+Import Grafana dashboard from Grafana Labs
+Deploy a spring boot microservice and monitor it on Grafana
+Conclusion
